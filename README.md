@@ -10,4 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![shanujya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanujya&hide=stars,prs,issues)
 
+
+<a href="https://leetcode.com/shanujya/" target="_blank"><img src="https://leetcard.jacoblin.cool/shanujya?hide=ranking&theme=unicorn&extension=heatmap" alt="Ankit's leetcode-stats" width="450" ></a>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shanujya)
