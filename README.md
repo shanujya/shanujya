@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanujya
 - 👀 I’m interested in web dev and machine learning...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React & Dynamic Animations...
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach : [click me](https://www.linkedin.com/in/shanujya-mishra)
 
