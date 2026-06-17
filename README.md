@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach : [click me](https://www.linkedin.com/in/shanujya-mishra)
   
-<a href="https://leetcode.com/shanujya/" target="_blank"><img src="https://leetcard.jacoblin.cool/shanujya?hide=ranking&theme=unicorn&extension=heatmap" alt="Ankit's leetcode-stats" width="450" ></a>
+<a href="https://leetcode.com/shanujya/" target="_blank"><img src="https://leetcard.jacoblin.cool/shanujya?hide=ranking&theme=unicorn&extension=heatmap" alt="shanujya's leetcode-stats" width="450" ></a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shanujya&theme=buefy&background=FFFFFF)](https://github.com/shanujya)
 
