@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanujya...
-- 👀 I’m interested in AI, Machine Learning & Cloud Computing.
+- 👀 I’m interested in AI, Machine Learning, Cloud Computing, and Big Data
 - 🌱 I’m currently learning Deep learning, AWS...
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me: [click me](https://www.linkedin.com/in/shanujya-mishra)
