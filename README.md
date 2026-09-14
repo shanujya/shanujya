@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shanujya 👋</h1>
+<h1 align="center">Hi, I'm Shanujya </h1>
 
 <p align="center">
 Software Developer → transitioning into ML/AI research | M.Sc. Data Science & AI @ BITS Pilani
