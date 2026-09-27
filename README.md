@@ -23,7 +23,7 @@ Software Developer → transitioning into ML/AI research | M.Sc. Data Science & 
 |---|---|---|
 | [📚 Academic Self-RAG Agent](https://github.com/shanujya/academic-rag-agent) | A self-reflective research assistant over your PDF library — retrieves, grades document relevance, falls back to web search when nothing's relevant, checks its own answers for hallucination, and retries until grounded. | `LangGraph` `Gemini` `ChromaDB` `Streamlit` |
 | [🛒 E-Commerce Seller Recommendation Pipeline](https://github.com/shanujya/Ecommerce_seller_recommendation) | A PySpark + Apache Hudi lakehouse pipeline that ingests raw seller/sales data, applies data-quality checks, and ranks the top-10 products each seller should add to maximize expected revenue. | `PySpark` `Apache Hudi` `YAML` |
-| [📊 Customer Segmentation (Advanced Apex Project)](#) | Unsupervised segmentation of retail customers from transaction-level data — 17 engineered features, k=3 clusters chosen via the elbow method, with sampling strategies for memory-intensive algorithms. | `scikit-learn` `Pandas` `Clustering` |
+| [📊 ForgeDiT ](#) | Unsupervised segmentation of retail customers from transaction-level data — 17 engineered features, k=3 clusters chosen via the elbow method, with sampling strategies for memory-intensive algorithms. | `scikit-learn` `Pandas` `Clustering` |
 
 ---
 
